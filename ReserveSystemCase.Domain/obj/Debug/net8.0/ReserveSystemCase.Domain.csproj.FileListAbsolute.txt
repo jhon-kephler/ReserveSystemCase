@@ -1,0 +1,12 @@
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\bin\Debug\net8.0\ReserveSystemCase.Domain.deps.json
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\bin\Debug\net8.0\ReserveSystemCase.Domain.dll
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\bin\Debug\net8.0\ReserveSystemCase.Domain.pdb
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.csproj.AssemblyReference.cache
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.AssemblyInfoInputs.cache
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.AssemblyInfo.cs
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.csproj.CoreCompileInputs.cache
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.dll
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\refint\ReserveSystemCase.Domain.dll
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ReserveSystemCase.Domain.pdb
+E:\Project\ReserveSystemCase\ReserveSystemCase.Domain\obj\Debug\net8.0\ref\ReserveSystemCase.Domain.dll

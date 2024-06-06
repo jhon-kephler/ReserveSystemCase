@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\ReserveSystemCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\services\\flytingcontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\services\\flytingcontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\schema\\responses\\flytinginfosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\schema\\responses\\flytinginfosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\mapper\\flytingcontrolprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\mapper\\flytingcontrolprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\schema\\responses\\apigolresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\schema\\responses\\apigolresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B300A3-A531-47E8-BFB7-12C8D8F0DB9B}|ReserveSystemCase\\ReserveSystemCase.Appication.csproj|e:\\project\\reservesystemcase\\reservesystemcase\\controllers\\flytingcontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B300A3-A531-47E8-BFB7-12C8D8F0DB9B}|ReserveSystemCase\\ReserveSystemCase.Appication.csproj|solutionrelative:reservesystemcase\\controllers\\flytingcontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\schema\\responses\\apilatamresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\schema\\responses\\apilatamresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|e:\\project\\reservesystemcase\\reservesystemcase.domain\\schema\\request\\flytingcontrolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D697CE-B8AE-47E7-BC62-21C52322F7FF}|ReserveSystemCase.Domain\\ReserveSystemCase.Domain.csproj|solutionrelative:reservesystemcase.domain\\schema\\request\\flytingcontrolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B300A3-A531-47E8-BFB7-12C8D8F0DB9B}|ReserveSystemCase\\ReserveSystemCase.Appication.csproj|e:\\project\\reservesystemcase\\reservesystemcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B300A3-A531-47E8-BFB7-12C8D8F0DB9B}|ReserveSystemCase\\ReserveSystemCase.Appication.csproj|solutionrelative:reservesystemcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlytingControlService.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Services\\FlytingControlService.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Services\\FlytingControlService.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Services\\FlytingControlService.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Services\\FlytingControlService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:11:26.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlytingControlProfile.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Mapper\\FlytingControlProfile.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Mapper\\FlytingControlProfile.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Mapper\\FlytingControlProfile.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Mapper\\FlytingControlProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:23:55.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlytingControlController.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase\\Controllers\\FlytingControlController.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase\\Controllers\\FlytingControlController.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase\\Controllers\\FlytingControlController.cs",
+              "RelativeToolTip": "ReserveSystemCase\\Controllers\\FlytingControlController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:47:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase\\Program.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase\\Program.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase\\Program.cs",
+              "RelativeToolTip": "ReserveSystemCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:46:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlytingControlRequest.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Request\\FlytingControlRequest.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Schema\\Request\\FlytingControlRequest.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Request\\FlytingControlRequest.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Schema\\Request\\FlytingControlRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:42:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APILatamResponse.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\APILatamResponse.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Schema\\Responses\\APILatamResponse.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\APILatamResponse.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Schema\\Responses\\APILatamResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:30:21.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlytingInfosResponse.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\FlytingInfosResponse.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Schema\\Responses\\FlytingInfosResponse.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\FlytingInfosResponse.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Schema\\Responses\\FlytingInfosResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:08:33.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIGolResponse.cs",
+              "DocumentMoniker": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\APIGolResponse.cs",
+              "RelativeDocumentMoniker": "ReserveSystemCase.Domain\\Schema\\Responses\\APIGolResponse.cs",
+              "ToolTip": "E:\\Project\\ReserveSystemCase\\ReserveSystemCase.Domain\\Schema\\Responses\\APIGolResponse.cs",
+              "RelativeToolTip": "ReserveSystemCase.Domain\\Schema\\Responses\\APIGolResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:14:59.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
